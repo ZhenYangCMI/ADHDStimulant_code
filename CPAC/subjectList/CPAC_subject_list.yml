@@ -1,0 +1,456 @@
+-
+    subject_id: 'sub9002OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9002OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9002OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9003OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9003OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9003OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9005OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9005OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9005OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9006OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9006OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9006OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9007OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9007OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9007OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9011OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9011OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9011OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9012OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9012OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9012OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9013OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9013OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9013OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9021OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9021OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9021OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9001OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9001OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9001OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9004OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9004OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9004OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9014OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9014OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9014OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9016OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9016OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9016OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9023OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9023OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9023OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9024OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9024OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9024OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9026OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9026OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9026OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9027OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9027OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9027OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9028OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9028OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9028OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9032OffMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9032OffMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9032OffMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9001OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9001OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9001OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9004OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9004OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9004OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9014OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9014OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9014OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9016OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9016OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9016OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9023OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9023OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9023OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9024OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9024OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9024OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9026OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9026OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9026OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9027OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9027OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9027OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9028OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9028OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9028OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9032OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9032OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9032OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9002OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9002OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9002OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9003OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9003OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9003OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9005OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9005OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9005OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9006OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9006OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9006OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9007OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9007OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9007OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9011OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9011OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9011OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9012OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9012OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9012OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9013OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9013OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9013OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'
+-
+    subject_id: 'sub9021OnMed'
+    unique_id: ''
+    anat: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9021OnMed/anat/mprage.nii.gz'
+    rest: 
+      rest_lfo: '/home/data/Projects/Zhen/ADHDStimulant/data/organized/sub9021OnMed/rest/lfo.nii.gz'
+    scan_parameters:
+        tr: '2'
+        acquisition: 'alt+z'
+        reference: '38'
+        first_tr: '0'
+        last_tr: 'None'

@@ -1,0 +1,11 @@
+connectir_mdmr.R \
+-i "/home/data/Projects/Zhen/ADHDStimulant/results/CWAS/Difference/Difference_subdist_gower.desc" \
+--formula 'Age_at_scan + Sex + Med + MeanFD_OnMinusOff' \
+--model "/home/data/Projects/Zhen/ADHDStimulant/data/CWASregressors.csv" \
+--permutations 15000 \
+--factors2perm 'age_demean,DT_group_name,age_demeanByDT_group' \
+--threads 8 \
+--memlimit 20 \
+--save-perms \
+mdmr3mmFWHM6
+

@@ -1,0 +1,13 @@
+connectir_mdmr.R \
+-i "/home/data/Projects/Zhen/ADHDStimulant/results/CWAS/OnAndOffMed" \
+--formula 'subID + Med_condition + MeanFD' \
+--model "/home/data/Projects/Zhen/ADHDStimulant/data/CWASregressors.csv" \
+--permutations 15000 \
+--strata 'subID' \
+--factors2perm 'Med_condition' \
+--forks=12 \
+--threads 1 \
+--memlimit 20 \
+--save-perms \
+mdmr3mmFWHM6
+

@@ -1,0 +1,14 @@
+anatomicalTemplate  :  /home/data/Projects/Zhen/ADHDStimulant/data/%s/%s/anat/mprage.nii.gz 
+
+functionalTemplate  :  /home/data/Projects/Zhen/ADHDStimulant/data/%s/%s/rest/lfo.nii.gz 
+
+subjectList  :  /home/data/Projects/Zhen/ADHDStimulant/data/organized/subList19sub.txt 
+
+exclusionSubjectList  :  None 
+
+siteList  :  None 
+
+scanParametersCSV  :  /home/data/Projects/Zhen/ADHDStimulant/code/CPAC/scan_parameters.csv 
+
+outputSubjectListLocation  :  /home/data/Projects/Zhen/ADHDStimulant/code/CPAC/subjectList 
+
