@@ -2,14 +2,14 @@ clear
 clc
 close all
 
-%addpath /home/data/Projects/Zhen/Colibazzi/code/BrainNetViewer
+addpath /home/data/Projects/Zhen/commonCode/BrainNetViewer
 %addpath /home/data/Projects/Zhen/microstate/DPARSF_preprocessed/code/colorRamp.m
 
-imgInputDir = ['/home/data/Projects/Zhen/ADHDStimulant/results/CWAS/OnAndOffMed/mdmr3mmFWHM6/'];
+imgInputDir = ['/home/data/Projects/Zhen/ADHDStimulant/figs/tmp/'];
 cd (imgInputDir)
 
 NMin=-0.001; PMin = 0.001;
-NMax=-4; PMax=4; % for CWAS set for 4, for others set for 5 to plot the overlapping
+NMax=-2; PMax=2; % for CWAS set for 4, for others set for 5 to plot the overlapping
 
 Prefix='';
 DirImg = dir([imgInputDir,filesep,Prefix,'*.nii.gz']);
@@ -25,13 +25,13 @@ DirImg = dir([imgInputDir,filesep,Prefix,'*.nii.gz']);
 
 % the colorMap used in the pib. This is for plotting the threshed Z map.
 % remember to change the scale to -5 to 5
-ColorMap=[1,1,0;1,0.9,0;1,0.8,0;1,0.7,0;1,0.6,0;1,0.5,0;0,0.5,1;0,0.6,1;0,0.7,1;0,0.8,1;0,0.9,1;0,1,1;];
-ColorMap=flipdim(ColorMap,1);
-cmap1 = colorRamp(ColorMap(1:6,:), 32);
-cmap2= colorRamp(ColorMap(7:end,:), 32);
-ColorMap=vertcat(cmap1,cmap2);
+% ColorMap=[1,1,0;1,0.9,0;1,0.8,0;1,0.7,0;1,0.6,0;1,0.5,0;0,0.5,1;0,0.6,1;0,0.7,1;0,0.8,1;0,0.9,1;0,1,1;];
+% ColorMap=flipdim(ColorMap,1);
+% cmap1 = colorRamp(ColorMap(1:6,:), 32);
+% cmap2= colorRamp(ColorMap(7:end,:), 32);
+% ColorMap=vertcat(cmap1,cmap2);
 
-% the colormap below are for plotting the combined or overlapped maps
+
 % [64, 196, 255] and [255, 255, 0] are fake, always using odd number of
 % colors, the middle, the first, or the last are colors possibly not used.
 %ColorMap=[0, 128,0; 106, 196, 255; 51, 83, 255; 106, 90, 205; 64, 196, 255; 230, 123, 184; 228, 108, 10;  255, 255, 0; 205, 0, 0]
@@ -50,12 +50,12 @@ ColorMap=vertcat(cmap1,cmap2);
 % ColorMap=[1,1,0;1,0.8,0;1,0.4118,0;1,0,0;0,0,1;0,0.4118,1;0,0.8,1;0,1,1;];
 % ColorMap=flipdim(ColorMap,1);
 
-%ColorMap=[64, 224, 208; 106, 90, 205; 30, 144, 255; 230, 93, 184; 221, 0, 0]; % this is for < 4 clusters
-%colorMap=[64, 196, 255; 106, 90, 205; 0, 128,0; 30, 144, 255; 228, 108, 10; 230, 93, 184; 221, 0, 0]; % this is for < 6 clusters
+ColorMap=[64, 224, 208; 106, 90, 205; 30, 144, 255; 230, 93, 184; 221, 0, 0]; % this is for < 4 clusters, CWAS main effect or interation
+%ColorMap=[64, 196, 255; 106, 90, 205; 0, 128,0; 30, 144, 255; 228, 108, 10; 230, 93, 184; 221, 0, 0]; % this is for < 6 clusters
 
 %ColorMap=[102, 60, 123;228, 108, 10;0, 128,0;0, 0, 255;255, 0,
 %0] % plot univariate AgexDT effect
-%ColorMap=ColorMap/255;
+ColorMap=ColorMap/255;
 
 surfaceMapOutputDir = imgInputDir;
 numImg=length(DirImg)
